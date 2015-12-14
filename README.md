@@ -9,13 +9,7 @@ I frequently the controller on move, rename and remove.
 ### Installation
 
 ```sh
-$ [sudo] npm install -g alloy-smelter
-```
-
-Installing edge version.
-
-```sh
-[sudo] npm install -g git://github.com/k0sukey/alloy-smelter.git
+[sudo] npm install -g git://github.com/mg0stisha/alloy-smelter.git
 ```
 
 ### Usage
