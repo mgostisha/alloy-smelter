@@ -9,7 +9,7 @@ I frequently the controller on move, rename and remove.
 ### Installation
 
 ```sh
-[sudo] npm install -g git://github.com/mg0stisha/alloy-smelter.git
+[sudo] npm install -g git://github.com/mgostisha/alloy-smelter.git
 ```
 
 ### Usage
